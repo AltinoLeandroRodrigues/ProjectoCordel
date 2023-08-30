@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 300px;
+}
+.topo h1{
+    font-size: 5vh;
+}
+.topo .fontsizediferente{
+    font-size: 10vh;
+}
+
+.topo p a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 10px;    
+}
+
+.topo p{
+      color: #ddd;
+}
+
+.topo p a:hover{
+    text-decoration: underline;
+}
+
+
+.primeira-poesia{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.primeira-poesia p{
+    font-size: 30px;
+    font-family: cursive;
+    width: 70%;
+}
+
+ 
+.segunda-poesia{
+    background-image: url('fundo.jpg');
+     background-size: cover;
+     background-attachment: fixed;
+     background-position: center center;
+     background-repeat: no-repeat;
+
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.segunda-poesia p{
+    background-color: rgba(0, 0, 0, 0.621);
+    width: 70%;
+
+    color: white;
+
+    font-size: 30px;
+    padding: 10px;
+    font-family: cursive;
+}
+
+
+.terceira-poesia{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.terceira-poesia p{
+    font-size: 30px;
+    font-family: cursive;
+    width: 70%;
+}
+ 
+
+.quarta-poesia{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.quarta-poesia p{
+    font-size: 30px;
+    font-family: cursive;
+    width: 70%;
+}
+ 
+.quinta-poesia{
+    background-image: url('fundo1.png');
+     background-size: cover;
+     background-attachment: fixed;
+     background-position: center center;
+     background-repeat: no-repeat;
+
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.quinta-poesia p{
+    background-color: rgba(0, 0, 0, 0.621);
+    width: 70%;
+
+    color: white;
+
+    font-size: 30px;
+    padding: 10px;
+    font-family: cursive;
+}
+
+.sexta-poesia,.setima-poesia{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.sexta-poesia,.setima-poesia p{
+    font-size: 30px;
+    font-family: cursive;
+    width: 70%;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 40px;
+}
+footer p{
+     font-size: 20px;
+     color: white;
+}
+footer a{
+     font-size: 20px;
+     text-decoration: none;
+     color: white;
+}
+
+ 
